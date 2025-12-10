@@ -1,0 +1,8 @@
+{
+  "name": "Gillbet Resart",
+  "description": "An immersive Tamil culture-inspired restaurant experience featuring interactive AI-powered culinary exploration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
